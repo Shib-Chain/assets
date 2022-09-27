@@ -1,0 +1,32 @@
+{
+    "name": "ShibChain",
+    "logoURI": "https://raw.githubusercontent.com/Shib-Chain/assets/main/logo/SCLogo.png",
+    "keywords": [
+      "ShibChain",
+      "SC"
+    ],
+    "timestamp": "2022-09-27T00:00:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 1923,
+        "address": "0x94d0DcA5eAE9a6987F15ce91F14154E5b0FDD82F",
+        "name": "Wrapped WWSHIB",
+        "symbol": "WWSHIB",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Shib-Chain/assets/main/logo/WWSHIB.png"
+      },
+      {
+        "chainId": 1923,
+        "address": "0xcA11851D49DDbD9584660A8989AE3838544965A6",
+        "name": "SHIBCHAIN",
+        "symbol": "SC",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/Shib-Chain/assets/main/logo/0xcA11851D49DDbD9584660A8989AE3838544965A6.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+}
